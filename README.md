@@ -1,5 +1,6 @@
 ## Анализ сотрудников компании «Работа с заботой»
-analysis_of_company_employees.ipynb
+nastasii0.github.io
+/analysis_of_company_employees.ipynb
 
 Описание проекта:
 • Предсказание уровня удовлетворённости сотрудников и увольнений
