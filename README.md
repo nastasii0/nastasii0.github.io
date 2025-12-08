@@ -10,8 +10,16 @@ https://github.com/nastasii0/nastasii0.github.io/blob/1fb495de2e6f4d46f125521fb6
 ## Определение стоимости автомобилей
 https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac18c2e5b6056017/car_cost_analysis.ipynb
 
+Описание проекта:
+- Разработка модели для оценки рыночной стоимости автомобиля по техническим характеристикам и комплектациям
+- Машинное обучение: регрессия (LGBM, Random Forest, Linear Regression)
+- Анализ скорости, качества предсказаний и времени обучения
+- Использование градиентного бустинга и не бустинговых моделей для сравнения
+- Ключевые слова (регрессия, градиентный бустинг, LightGBM, Random Forest, регрессия, предсказание стоимости)
+
 ## Проект "Вольный луг"
 https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac18c2e5b6056017/cow_selection_model.ipynb
+
 
 ## Проект: "ТелеДом"
 https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac18c2e5b6056017/customer_churn.ipynb
