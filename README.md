@@ -1,4 +1,4 @@
-`## Анализ сотрудников компании «Работа с заботой»`
+## Анализ сотрудников компании «Работа с заботой»
 https://github.com/nastasii0/nastasii0.github.io/blob/1fb495de2e6f4d46f125521fb68d807c7c896faa/analysis_of_company_employees.ipynb
 
 `Описание проекта:`
@@ -9,8 +9,6 @@ HR-аналитика: прогнозирование удовлетворенн
 - Язык и анализ: Python (Pandas, NumPy, Phik, SciPy).
 - Машинное обучение: Scikit-learn (DecisionTree, LinearRegression, LogisticRegression, Pipeline).
 - Визуализация и интерпретация: Seaborn, Matplotlib, SHAP.
-
-
 
 
 ## Определение стоимости автомобилей
