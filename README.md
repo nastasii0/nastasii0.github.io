@@ -52,7 +52,7 @@ https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac
 
 ОСТАЛЬНЫЕ ПРОЕКТЫ 
 
-## Определение стоимости автомобилей
+# Определение стоимости автомобилей
 https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac18c2e5b6056017/car_cost_analysis.ipynb
 
 `Описание проекта:`
