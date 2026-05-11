@@ -1,4 +1,4 @@
-## Анализ сотрудников компании «Работа с заботой»
+## Анализ сотрудников компании 
 https://github.com/nastasii0/nastasii0.github.io/blob/1fb495de2e6f4d46f125521fb68d807c7c896faa/analysis_of_company_employees.ipynb
 
 `Описание проекта:`
@@ -74,7 +74,7 @@ https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac
 - Визуализация и метрики: Seaborn, Matplotlib, Mean Squared Error (RMSE).
 
 
-## Проект: Статистический анализ данных аренды самокатов GoFast
+## Статистический анализ данных аренды самокатов GoFast
 https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac18c2e5b6056017/statistical_analysis.ipynb
 
 `Описание проекта:`
