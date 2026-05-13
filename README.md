@@ -28,7 +28,7 @@ https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac
 https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac18c2e5b6056017/cow_selection_model.ipynb
 Прогнозирование надоев и качества молока для автоматизации отбора в стадо.
 
-3. Анализ данных о продаже игр в интернет-магазине "Стримчик"
+3. Анализ данных о продаже игр в интернет-магазине 
 https://github.com/nastasii0/nastasii0.github.io/blob/85558cc2b1c62b5da8b040bdac18c2e5b6056017/game_sales_analysis.ipynb
 Исследование факторов популярности видеоигр и сегментация рынка.
 
